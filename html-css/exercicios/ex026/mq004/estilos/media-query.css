@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+/*todas as demais midias*/
+
+/*Typical Devie breakpoints
+Pequenas telas: ate 600px
+Celular: de 600px ate 768px
+Tablet: 768px ate 992px
+Desktop: 992px ate 1200px
+Grandes telas acima de 1200px
+*/
+
+@media print {
+    
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    
+}
+
+@media screen and (min-width: 1200px) {
+    
+}
